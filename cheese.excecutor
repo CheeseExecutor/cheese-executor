@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cheese.Executor</title>
+<style>
+body{
+    margin:0;
+    background:#0f0f0f;
+    color:white;
+    font-family:Arial,sans-serif;
+}
+header{
+    text-align:center;
+    padding:80px 20px;
+}
+h1{
+    font-size:4rem;
+    color:#ffd54a;
+}
+.tagline{
+    color:#ccc;
+    font-size:1.2rem;
+}
+.container{
+    max-width:900px;
+    margin:auto;
+    padding:20px;
+}
+.card{
+    background:#1b1b1b;
+    border-radius:12px;
+    padding:20px;
+    margin:20px 0;
+}
+footer{
+    text-align:center;
+    color:#777;
+    padding:30px;
+}
+</style>
+</head>
+<body>
+
+<header>
+    <h1>🧀 Cheese.Executor</h1>
+    <p class="tagline">The cheesiest demo website on the internet.</p>
+</header>
+
+<div class="container">
+
+    <div class="card">
+        <h2>About</h2>
+        <p>
+            Welcome to Cheese.Executor! This is a fictional demo website
+            made for web design practice and fun.
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>Features</h2>
+        <ul>
+            <li>100% Cheese Powered</li>
+            <li>Extra Cheddar Mode</li>
+            <li>Swiss Performance Boost</li>
+            <li>Mozzarella UI</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>Status</h2>
+        <p>🟢 Online</p>
+    </div>
+
+</div>
+
+<footer>
+    © 2026 Cheese.Executor
+</footer>
+
+</body>
+</html>
